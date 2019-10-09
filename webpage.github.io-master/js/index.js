@@ -2,7 +2,7 @@
 
 $(function(){
     $('.whoIAm').typed({
-        strings: ["First Generation College Student", "Biochemist", "Researcher", "Mentor", "Mentee", "Friend"],
+        strings: ["First Generation College Student", "Biochemist", "Researcher", "Mentor", "Mentee"],
         typeSpeed: 40,
         startDelay:800, 
         backDelay: 1000,
